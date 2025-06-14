@@ -10,6 +10,8 @@ a.)Understand data quality (missing values, outliers, distributions)
 b.)Profile customers by demographics and behavior
 
 c.)Identify relationships between income, spending, and campaign response
+
+
 ✅ Use Descriptive Statistics to:
 
 a.)Summarize key numeric features (mean, median, std, range)
